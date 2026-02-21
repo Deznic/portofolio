@@ -405,7 +405,7 @@ html:not(.light-theme) .modal-backdrop {
 
 .submit-btn {
     background: var(--accent);
-    color: var(--text-main);
+    color: var(--bg-color);
     border: none;
     padding: 16px;
     cursor: pointer;
